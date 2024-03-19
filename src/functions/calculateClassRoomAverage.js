@@ -4,7 +4,7 @@ const calculateClassroomAverage = (data) => {
     0
   );
 
-  return sum / data.length;
+  return Math.floor(sum / data.length);
 };
 
 export default calculateClassroomAverage;
