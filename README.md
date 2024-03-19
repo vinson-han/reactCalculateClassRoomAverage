@@ -1,6 +1,7 @@
 # Calculate Class Average
 
 React Classroom Calculate Average Grade
+
 React | CSS
 
 ## Installation
